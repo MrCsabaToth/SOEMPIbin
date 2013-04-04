@@ -13,6 +13,6 @@ SOEMPIbin
   * If you want the VM to see the internet select "Bridged Adapter"
   * In case you set up a multi-component SOEMPI scheme using more virtual machines you can separate them to subnet by selecting "Internal Network"
   * After boot-up and login, say "./jboss/bin/jboss start" from the home directory
-  * You can log-in to SOMEPI by visiting http://${VMsIPAddress}:8080/SOEMPI
-  * You can see the JBoss console at http://${VMsIPAddress}:8080/
+  * You can log-in to SOMEPI using the host computer's browser by visiting http://${VMsIPAddress}:8080/SOEMPI
+  * You can see the JBoss console using the host computer's browser at http://${VMsIPAddress}:8080/
   * Stop the instance with "./jboss/bin/jboss stop"
