@@ -1,7 +1,7 @@
 SOEMPIbin
 =========
 
-* Compiled binary distribution of SOEMPI in an enterprise archive format, deployable to JBoss 4.2.3.GA-jdk6.
+* Compiled binary distribution of [SOEMPI](http://github.com/MrCsabaToth/SOEMPI/) in an enterprise archive format, deployable to JBoss 4.2.3.GA-jdk6.
 * For a more ready-to-use experience you can use this VirtualBox virtual machine http://hiplab.org/projects/soempi/bin/SOEMPIVM.7z
   * Compressed size: 583 MiB, uncompressed size: 2.1 GiB
   * Based on Ubuntu Linux 8.10 Server Interpid Ibex
