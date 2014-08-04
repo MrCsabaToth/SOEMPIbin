@@ -13,4 +13,6 @@ SOEMPIbin
   * After boot-up and login, say "sudo ./jboss/bin/jboss start" from the home directory to start JBoss (and SOEMPI with it)
   * You can log-in to SOMEPI using the host computer's browser by visiting http://${VM_IPAddress}:8080/SOEMPI
   * You can see the JBoss console using the host computer's browser at http://${VM_IPAddress}:8080/
+  * You can connect to the PostgreSQL database on the VM's 5432 port (standard PostgreSQL port)
   * Stop the JBoss instance with "sudo ./jboss/bin/jboss stop"
+  * Note, that nor the JBoss nor the PostgreSQL is hardened, this VM is for demonstration purposes
